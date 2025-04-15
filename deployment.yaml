@@ -17,3 +17,4 @@ spec:
         image: sneha758/practice:v1 
         ports:
         - containerPort: 3001
+        
