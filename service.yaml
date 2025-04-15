@@ -7,6 +7,6 @@ spec:
   selector:
     app: node-hello
   ports:
-    - port: 3000         # Service port
-      targetPort: 3000   # Container port
+    - port: 3001         # Service port
+      targetPort: 3001   # Container port
       nodePort: 30007    # Node port (external)
